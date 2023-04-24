@@ -1,3 +1,3 @@
 # ZadanieDomowe
 
-My name is Michał. This is my first branch
+My name is Michał Lesiński. This is my first branch
