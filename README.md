@@ -1,3 +1,3 @@
 # ZadanieDomowe
 
-My name is Michał. I am getting into the world of IT.
+My name is Michał. This is my first branch
